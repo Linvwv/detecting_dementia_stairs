@@ -1,2 +1,4 @@
-# detecting_dementia_stairs
-Detecting Dementia through Gait Analysis using Machine Learning
+# Detecting Dementia Using Gait on Stairs
+This project aims at assessing the feasibility of using gait (based on IMU data collected from participants climbing stairs) to detect dementia, as well as its type, focusing on two contrasting types of dementia – Posterior Cortical Atrophy (PCA) and typical Alzheimer’s Disease (tAD). Therefore, this research aims to build a system that employs Machine Learning to diagnose patients. Furthermore, it aims to analyse what data is most useful for making accurate predictions as well as how much data is needed. This is done by analysing the sensors that are most important for making predictions as well as how important different features are for the models created.
+
+This project was completed as the Final Year Project for the MEng in Computer Science at UCL and, therefore, a detailed report of the project can be found in the Final Report produced for this.
