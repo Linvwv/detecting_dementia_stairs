@@ -22,4 +22,4 @@ data_dir = 'data/'
 lookup_file = 'SWTS1_Xsens_Look_Up.xlsx'
 # columns of the lookup file that are not used by the analysis
 unused_columns = ['Participant number', 'Trial', 'Order', 'Block', 'Randomisation schedule', 'Cue (0/1)',
-                  'Direction (Up/Down)', 'Lighting (1/2)', 'Easy  (1/2/3/4)', 'Holding bannister (0/1)?', 'Age', 'DD', 'Female']
+                  'Lighting (1/2)', 'Easy  (1/2/3/4)', 'Holding bannister (0/1)?', 'Age', 'DD', 'Female']
